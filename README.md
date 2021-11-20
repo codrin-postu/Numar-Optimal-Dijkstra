@@ -1,6 +1,6 @@
-# Numar-Optimal-Dijkstra
+# Optimal Number Dijkstra Modified
 
-Dijkstra modificat ca sa testeze numarul optimal de KM pentru un drum de la s la t
+Dijkstra modified to find the optimal KM count for a path from s to t.
 
 ## Prerequisites
 
